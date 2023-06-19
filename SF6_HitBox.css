@@ -104,15 +104,15 @@
 .custom .face.left {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-l.png);
     top: 75px;
-    left: 75px;
+    left: 70px;
 }
 .custom .face.down {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-d.png);
     top: 75px;
-    left: 150px;
+    left: 140px;
 }
 .custom .face.right {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-r.png);
     top: 90px;
-    left: 225px;
+    left: 210px;
 }
