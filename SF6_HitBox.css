@@ -20,11 +20,11 @@
     top: 50px;
     left: 50px;
     background-color: yellow;
+    background-size: contain;
 }
 
 .custom .button.pressed {
     filter: brightness(150%);
-    background-size: contain;
 }
 
 .custom .y {
