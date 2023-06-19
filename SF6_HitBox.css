@@ -1,7 +1,7 @@
 .controller.custom {
     height: 350px;
     width: 700px;
-    background-color: red;
+    /* background-color: red; */
 }
 
 .custom .abxy {
@@ -23,7 +23,7 @@
 }
 
 .custom .face:not(.pressed) {
-    filter: grayscale(50%);
+    filter: brightness(75%);
 }
 
 .custom .button.pressed, .custom .bumper.pressed, .custom .trigger-button.pressed {
