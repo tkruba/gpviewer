@@ -9,7 +9,7 @@
     width: 200px;
     aspect-ratio: 1/1;
     top: 50px;
-    left: 550px;
+    left: 350px;
 }
 
 .custom .button, .custom .bumper, .custom .trigger-button, .custom .face {
@@ -100,4 +100,19 @@
 .custom .face.up {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-u.png);
     top: 90px;
+}
+.custom .face.left {
+    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-l.png);
+    top: 75px;
+    left: 75px;
+}
+.custom .face.down {
+    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-d.png);
+    top: 75px;
+    left: 150px;
+}
+.custom .face.right {
+    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-r.png);
+    top: 90px;
+    left: 225px;
 }
