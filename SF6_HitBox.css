@@ -1,0 +1,13 @@
+.controller.custom {
+    height: 558px;
+    width: 784px;
+}
+
+.custom .button {
+    position: absolute;
+    width: 200px;
+    aspect-ratio: 1/1;
+    top: 50px;
+    left: 50px;
+    background-color: green;
+}
