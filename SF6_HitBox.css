@@ -18,6 +18,8 @@
     aspect-ratio: 1/1;
     background-color: yellow;
     background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 .custom .button.pressed, .custom .bumper.pressed, .custom .trigger-button.pressed {
@@ -45,7 +47,7 @@
     left: 75px;
 }
 
-.custom .bumper {
+.custom .bumper, .custom .triggers {
     position: absolute;
     width: 50px;
     aspect-ratio: 1/1;
@@ -53,13 +55,24 @@
     left: 50px;
 }
 
+.custom .bumper.left {
+    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/modern_dl.png);
+    left: 195px;
+    top: 125px;
+}
+
 .custom .bumper.right {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_punch_h.png);
     left: 195px;
 }
 
-.custom .bumper.left {
-    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/modern_dl.png);
-    left: 195px;
-    top: 75px;
+.custom .trigger-button.left {
+    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/modern_dp.png);
+    left: 270px;
+}
+
+.custom .trigger-button.right {
+    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_kick_h.png);
+    left: 270px;
+    top: 125px;
 }
