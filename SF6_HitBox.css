@@ -24,3 +24,8 @@
 .custom .button.pressed {
     background-color: red;
 }
+
+.custom .y {
+    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_punch_m.png);
+    left: 55px;
+}
