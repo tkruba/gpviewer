@@ -13,7 +13,7 @@
     background-color: green;
 }
 
-.custom .button {
+.custom .button, .custom .bumper, .custom .trigger-button {
     position: absolute;
     width: 50px;
     aspect-ratio: 1/1;
@@ -52,7 +52,6 @@
     aspect-ratio: 1/1;
     top: 50px;
     left: 50px;
-    background-color: blue;
 }
 
 .custom .bumper.right {
