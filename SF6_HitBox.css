@@ -1,6 +1,7 @@
 .controller.custom {
     height: 558px;
     width: 784px;
+    background-color: red;
 }
 
 .custom .abxy {
@@ -22,10 +23,11 @@
 }
 
 .custom .button.pressed {
-    background-color: red;
+    filter: brightness(150%);
+    background-size: contain;
 }
 
 .custom .y {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_punch_m.png);
-    left: 55px;
+    left: 105px;
 }
