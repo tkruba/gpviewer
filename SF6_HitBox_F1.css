@@ -97,6 +97,11 @@
     left: 50px;
 }
 
+.custom .face.up {
+    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-u.png);
+    top: 90px;
+}
+
 .custom .face.left {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-l.png);
     top: 75px;
@@ -113,10 +118,4 @@
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-r.png);
     top: 90px;
     left: 210px;
-}
-
-.custom .face.up {
-    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-u.png);
-    top: 90px;
-    left: 245px;
 }
