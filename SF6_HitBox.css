@@ -62,7 +62,6 @@
 .custom .bumper.left {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/modern_dl.png);
     left: 560px;
-    top: 125px;
 }
 
 .custom .bumper.right {
@@ -81,6 +80,7 @@
 .custom .trigger-button.left {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/modern_dp.png);
     left: 560px;
+    top: 125px;
 }
 
 .custom .trigger-button.right {
@@ -117,6 +117,6 @@
 
 .custom .face.up {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-u.png);
-    top: 90px;
-    left: 245px;
+    top: 145px;
+    left: 250px;
 }
