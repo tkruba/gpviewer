@@ -12,7 +12,7 @@
     left: 50px;
 }
 
-.custom .button, .custom .bumpers, .custom .triggers {
+.custom .button, .custom .bumper, .custom .trigger-button {
     position: absolute;
     width: 50px;
     aspect-ratio: 1/1;
@@ -57,7 +57,7 @@
 
 .custom .bumper.left {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/modern_dl.png);
-    left: 195px;
+    left: 270px;
     top: 125px;
 }
 
@@ -81,6 +81,6 @@
 
 .custom .trigger-button.right {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_kick_h.png);
-    left: 270px;
+    left: 195px;
     top: 125px;
 }
