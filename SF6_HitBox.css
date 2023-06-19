@@ -55,5 +55,11 @@
 
 .custom .bumper.right {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_punch_h.png);
-    left: 150px;
+    left: 195px;
+}
+
+.custom .bumper.left {
+    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/modern_dl.png);
+    left: 195px;
+    top: 75px;
 }
