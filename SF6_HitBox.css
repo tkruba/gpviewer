@@ -27,6 +27,11 @@
     filter: brightness(150%);
 }
 
+.custom .x {
+    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_punch_l.png);
+    top: 15px;
+}
+
 .custom .y {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_punch_m.png);
     left: 105px;
