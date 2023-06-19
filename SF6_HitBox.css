@@ -34,7 +34,7 @@
 .custom .b {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_kick_m.png);
     top: 75px;
-    left: 75px;
+    left: 70px;
 }
 
 .custom .x {
@@ -44,7 +44,7 @@
 
 .custom .y {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_punch_m.png);
-    left: 75px;
+    left: 70px;
 }
 
 .custom .bumper {
@@ -57,13 +57,13 @@
 
 .custom .bumper.left {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/modern_dl.png);
-    left: 270px;
+    left: 260px;
     top: 125px;
 }
 
 .custom .bumper.right {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_punch_h.png);
-    left: 195px;
+    left: 190px;
 }
 
 .custom .trigger-button {
@@ -76,11 +76,11 @@
 
 .custom .trigger-button.left {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/modern_dp.png);
-    left: 270px;
+    left: 260px;
 }
 
 .custom .trigger-button.right {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_kick_h.png);
-    left: 195px;
+    left: 190px;
     top: 125px;
 }
