@@ -23,7 +23,7 @@
 }
 
 .custom .face:not(.pressed) {
-    filter: brightness(75%);
+    filter: brightness(50%);
 }
 
 .custom .button.pressed, .custom .bumper.pressed, .custom .trigger-button.pressed {
