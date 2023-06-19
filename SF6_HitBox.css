@@ -9,10 +9,10 @@
     width: 200px;
     aspect-ratio: 1/1;
     top: 50px;
-    left: 50px;
+    left: 550px;
 }
 
-.custom .button, .custom .bumper, .custom .trigger-button {
+.custom .button, .custom .bumper, .custom .trigger-button, .custom .face {
     position: absolute;
     width: 50px;
     aspect-ratio: 1/1;
@@ -52,7 +52,7 @@
     width: 50px;
     aspect-ratio: 1/1;
     top: 50px;
-    left: 50px;
+    left: 550px;
 }
 
 .custom .bumper.left {
@@ -71,7 +71,7 @@
     width: 50px;
     aspect-ratio: 1/1;
     top: 50px;
-    left: 50px;
+    left: 550px;
 }
 
 .custom .trigger-button.left {
@@ -83,4 +83,17 @@
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_kick_h.png);
     left: 190px;
     top: 125px;
+}
+
+.custom .dpad {
+    position: absolute;
+    width: 50px;
+    aspect-ratio: 1/1;
+    top: 50px;
+    left: 50px;
+}
+
+.custom .face.up {
+    background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/key-u.png);
+    top: 90px;
 }
