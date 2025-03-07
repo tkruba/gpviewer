@@ -1,3 +1,7 @@
+#gamepads {
+    background-color: red;
+}
+
 .controller.custom {
     height: 350px;
     width: 700px;
