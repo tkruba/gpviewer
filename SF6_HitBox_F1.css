@@ -1,7 +1,3 @@
-#gamepads {
-    background-color: red;
-}
-
 .controller.custom {
     height: 350px;
     width: 700px;
@@ -34,7 +30,7 @@
     filter: brightness(175%);
 }
 
-.button .a {
+.custom .a {
     background-image: url(https://www.streetfighter.com/6/assets/images/common/controller/icon_kick_l.png);
     top: 90px;
 }
